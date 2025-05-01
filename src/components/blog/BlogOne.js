@@ -30,7 +30,7 @@ export default class BlogOne extends React.Component {
                                             </div>
                                             <div className="inner-content">
                                                 <ul className="meta-info">
-                                                    <li><span className="icon-account"></span><Link to="/">Dani Smith</Link></li>
+                                                    <li><span className="icon-account"></span><Link to="/">Mero bhai</Link></li>
                                                     <li><span className="icon-bubble-chat"></span><Link to="/">2 Comment</Link>
                                                     </li>
                                                 </ul>
@@ -60,7 +60,7 @@ export default class BlogOne extends React.Component {
                                             </div>
                                             <div className="inner-content">
                                                 <ul className="meta-info">
-                                                    <li><span className="icon-account"></span><Link to="/">Dani Smith</Link></li>
+                                                    <li><span className="icon-account"></span><Link to="/">hajur dai</Link></li>
                                                     <li><span className="icon-bubble-chat"></span><Link to="/">2 Comment</Link>
                                                     </li>
                                                 </ul>
@@ -90,7 +90,7 @@ export default class BlogOne extends React.Component {
                                             </div>
                                             <div className="inner-content">
                                                 <ul className="meta-info">
-                                                    <li><span className="icon-account"></span><Link to="/">Dani Smith</Link></li>
+                                                    <li><span className="icon-account"></span><Link to="/">sanchai bhai</Link></li>
                                                     <li><span className="icon-bubble-chat"></span><Link to="/">2 Comment</Link>
                                                     </li>
                                                 </ul>

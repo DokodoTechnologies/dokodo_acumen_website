@@ -50,73 +50,73 @@ export default class BrandOne extends React.Component {
 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img1.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/laxmi-sunrise-logo.png"} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
                                 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img2.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+""} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
                                 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img3.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/nea-v1.png"} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
                                 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img4.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+""} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img1.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/laxmi-sunrise-logo.png"} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img2.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+""} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img3.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/nea-v1.png"} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img4.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+""} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img1.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/laxmi-sunrise-logo.png"} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img2.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+""} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img3.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/nea-v1.png"} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
 
                                 {/* Start Brand One Single */}
                                 <SwiperSlide className="swiper-slide">
-                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+"assets/images/brand/brand-v1-img4.png"} alt="" /></Link>
+                                    <Link to={process.env.PUBLIC_URL + `/`}><img src={publicUrl+""} alt="" /></Link>
                                 </SwiperSlide>
                                 {/* End Brand One Single */}
                             </div>

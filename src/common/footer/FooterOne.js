@@ -67,11 +67,11 @@ export default class FooterOne extends React.Component {
                                                 <div className="footer-widget__column footer-widget__services">
                                                     <h2 className="footer-widget__title">Our Services</h2>
                                                     <ul className="footer-widget__services-list">
-                                                        <li className="footer-widget__services-list-item"><Link to="/about-one">About Company</Link></li>
-                                                        <li className="footer-widget__services-list-item"><Link to="/services">Company Services</Link></li>
-                                                        <li className="footer-widget__services-list-item"><Link to="/blog">Comapny News</Link></li>
-                                                        <li className="footer-widget__services-list-item"><Link to="/portfolio">Company Project</Link></li>
-                                                        <li className="footer-widget__services-list-item"><Link to="/">Our Case Study</Link></li>
+                                                        <li className="footer-widget__services-list-item"><Link to="/about-one">International Rep</Link></li>
+                                                        <li className="footer-widget__services-list-item"><Link to="/services">Trading & Procurement</Link></li>
+                                                        <li className="footer-widget__services-list-item"><Link to="/blog">Power Solutions</Link></li>
+                                                        <li className="footer-widget__services-list-item"><Link to="/portfolio">Project Management</Link></li>
+                                                        <li className="footer-widget__services-list-item"><Link to="/">Local Partner Support</Link></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -80,11 +80,11 @@ export default class FooterOne extends React.Component {
                                                 <div className="footer-widget__column footer-widget__explore">
                                                     <h2 className="footer-widget__title">Our Explore</h2>
                                                     <ul className="footer-widget__explore-list">
-                                                        <li className="footer-widget__explore-list-item"><Link to="/">Project Planing</Link></li>
-                                                        <li className="footer-widget__explore-list-item"><Link to="/">Cost Calculator</Link></li>
-                                                        <li className="footer-widget__explore-list-item"><Link to="/">Our Testinonials</Link></li>
-                                                        <li className="footer-widget__explore-list-item"><Link to="/">Mining Sector</Link></li>
-                                                        <li className="footer-widget__explore-list-item"><Link to="/">Closure & Reform</Link></li>
+                                                        <li className="footer-widget__explore-list-item"><Link to="/">About Us</Link></li>
+                                                        <li className="footer-widget__explore-list-item"><Link to="/">Our Projects</Link></li>
+                                                        <li className="footer-widget__explore-list-item"><Link to="/">Client Testimonials </Link></li>
+                                                        <li className="footer-widget__explore-list-item"><Link to="/">Industry Insights</Link></li>
+                                                        <li className="footer-widget__explore-list-item"><Link to="/">Contact Us</Link></li>
                                                     </ul>
                                                 </div>
                                             </div>
