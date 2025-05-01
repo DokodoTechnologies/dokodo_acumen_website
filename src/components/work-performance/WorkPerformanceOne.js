@@ -82,12 +82,10 @@ export default class WorkPerformanceOne extends React.Component {
                                 <div className="work-perfomance-one__content">
                                     <div className="sec-title">
                                         <div className="sec-title__tagline">
-                                            <h6> Work Perfomance</h6> <span className="right"></span>
+                                            <h6> Our Expertise</h6> <span className="right"></span>
                                         </div>
-                                        <h2 className="sec-title__title">We Are Build Strong Building <br /> In Town</h2>
-                                        <p className="sec-title__text">Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                                            laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                                            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                        <h2 className="sec-title__title">Driving Success Through <br />Expertise in Nepal</h2>
+                                        <p className="sec-title__text">We facilitate seamless market entry and project execution for international companies in Nepal. Our comprehensive support ensures efficient tender processes, successful project implementation, and strong local partnerships.
                                         </p>
                                     </div>
                                     <div className="work-perfomance-one__content-bottom">
@@ -105,8 +103,7 @@ export default class WorkPerformanceOne extends React.Component {
 
                                         <div className="text-box">
                                             <h2>Satisfied Customer</h2>
-                                            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                                aliquip ex ea commodo consequat.</p>
+                                            <p>Our long-standing presence and commitment to quality have established us as a reliable partner for both international companies and local projects. </p>
                                         </div>
                                     </div>
                                 </div>

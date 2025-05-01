@@ -30,22 +30,20 @@ export default class FeatureThree extends React.Component {
                                     <div className="col-xl-6 col-lg-6 col-md-6">
                                         <div className="mission-vision-one__single">
                                             <div className="icon-box">
-                                                <span className="icon-crane"></span>
+                                                <span className="fas fa-clipboard-check"></span>
                                             </div>
                                             <h2>Our Mission</h2>
-                                            <p>Incididunt ut labore et dolore magna aliqua dnim veniam, quis nos trud exer dolor
-                                                ullamco laboris nis aliquip.</p>
+                                            <p>To lead in providing quality power solutions and to be the preferred partner for international companies seeking successful ventures in Nepal.</p>
                                         </div>
                                     </div>
 
                                     <div className="col-xl-6 col-lg-6 col-md-6">
                                         <div className="mission-vision-one__single">
                                             <div className="icon-box">
-                                                <span className="icon-painting"></span>
+                                                <span className="fas fa-globe "></span>
                                             </div>
                                             <h2>Our Vision</h2>
-                                            <p>Incididunt ut labore et dolore magna aliqua dnim veniam, quis nos trud exer dolor
-                                                ullamco laboris nis aliquip.</p>
+                                            <p>To be the leading and most respected company in Nepal for international representation, trading, and power solutions, recognized for our expertise and commitment to our partners' success.</p>
                                         </div>
                                     </div>
                                 </div>

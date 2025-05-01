@@ -30,7 +30,7 @@ export default class AboutFour extends React.Component {
                                     <div className="inner">
                                         <img src={publicUrl+"assets/images/update1.0/about-v3-img1.jpg"} alt="#" />
                                         <div className="about-three__img-video wow zoomIn" data-wow-delay="100ms">
-                                            <a href="https://www.youtube.com/watch?v=0O2aH4XLbto" className="video-popup">
+                                            <a href="https://www.youtube.com/watch?v=XQGnQpgGUFg" className="video-popup">
                                                 <div className="about-three__img-video-icon">
                                                     <span className="fa fa-play"></span>
                                                     <i className="ripple"></i>
@@ -47,18 +47,15 @@ export default class AboutFour extends React.Component {
                                         <div className="sec-title__tagline">
                                             <h6> ABOUT US </h6> <span className="right"></span>
                                         </div>
-                                        <h2 className="sec-title__title">Construction For Commercial</h2>
+                                        <h2 className="sec-title__title">Empowering Your Projects in Nepal</h2>
                                     </div>
 
                                     <div className="about-three__content-inner">
                                         <div className="text1">
-                                            <p>Construction is a general term meaning the art and science to form objects
-                                                systems organizations, and comes from Latin construction and Old French
-                                                construction. To construct is the verb:</p>
+                                            <p>Based in Kathmandu, Nepal, we bring over 27 years of expertise in international representation and trading. We empower global companies with seamless market entry and project execution, offering comprehensive local support for large-scale supply, EPC, and turnkey projects.</p>
                                         </div>
                                         <div className="text2">
-                                            <h4>It is a long established fact that a reader will be distracted by the readable
-                                                content </h4>
+                                            <h4>Your dedicated partner for international representation, trading, and power solutions in Nepal. </h4>
                                         </div>
                                         <ul className="about-three__content-list">
                                             <li>
@@ -66,7 +63,7 @@ export default class AboutFour extends React.Component {
                                                     <span className="icon-tick"></span>
                                                 </div>
                                                 <div className="text-box">
-                                                    <p> Interior Design Package</p>
+                                                    <p> International Representation</p>
                                                 </div>
                                             </li>
                                             <li>
@@ -74,7 +71,7 @@ export default class AboutFour extends React.Component {
                                                     <span className="icon-tick"></span>
                                                 </div>
                                                 <div className="text-box">
-                                                    <p> Renovaion Of Commercial Office</p>
+                                                    <p> Power Product & Service</p>
                                                 </div>
                                             </li>
                                             <li>
@@ -82,7 +79,7 @@ export default class AboutFour extends React.Component {
                                                     <span className="icon-tick"></span>
                                                 </div>
                                                 <div className="text-box">
-                                                    <p>Reparing Of Residentail Roof</p>
+                                                    <p>Strategic Partner Sourcing</p>
                                                 </div>
                                             </li>
                                         </ul>

@@ -33,9 +33,9 @@ export default class ServiceThree extends React.Component {
                                 <div className="services-three__single active">
                                     <div className="services-three__single__bg" style={{backgroundImage: 'url('+publicUrl+'assets/images/services/services-v1-bg.jpg)'}}></div>
                                     <div className="services-three__single-icon">
-                                        <span className="icon-crane"></span>
+                                        <span className="fas fa-globe"></span>
                                     </div>
-                                    <h3><Link to={process.env.PUBLIC_URL + `/general-contracting`}>Coal Excavation</Link></h3>
+                                    <h3><Link to={process.env.PUBLIC_URL + `/general-contracting`}>International Rep</Link></h3>
                                     <p>Lorem ipsum is simply free text dolor amett consec adipisc.</p>
                                     <div className="btn-box">
                                         <Link to={process.env.PUBLIC_URL + `/general-contracting`}><span className="icon-right-arrow"></span></Link>
@@ -49,9 +49,9 @@ export default class ServiceThree extends React.Component {
                                 <div className="services-three__single">
                                     <div className="services-three__single__bg" style={{backgroundImage: 'url('+publicUrl+'assets/images/services/services-v1-bg.jpg)'}}></div>
                                     <div className="services-three__single-icon">
-                                        <span className="icon-interior-design-1"></span>
+                                        <span className="fas fa-lightbulb"></span>
                                     </div>
-                                    <h3><Link to={process.env.PUBLIC_URL + `/general-contracting`}>House Planning</Link></h3>
+                                    <h3><Link to={process.env.PUBLIC_URL + `/general-contracting`}>Power Solution</Link></h3>
                                     <p>Lorem ipsum is simply free text dolor amett consec adipisc.</p>
                                     <div className="btn-box">
                                         <Link to={process.env.PUBLIC_URL + `/general-contracting`}><span className="icon-right-arrow"></span></Link>
@@ -65,9 +65,9 @@ export default class ServiceThree extends React.Component {
                                 <div className="services-three__single">
                                     <div className="services-three__single__bg" style={{backgroundImage: 'url('+publicUrl+'assets/images/services/services-v1-bg.jpg)'}}></div>
                                     <div className="services-three__single-icon">
-                                        <span className="icon-surgery"></span>
+                                        <span className="fas fa-tools"></span>
                                     </div>
-                                    <h3><Link to={process.env.PUBLIC_URL + `/general-contracting`}>Mine Factory</Link></h3>
+                                    <h3><Link to={process.env.PUBLIC_URL + `/general-contracting`}>Equipment Trading</Link></h3>
                                     <p>Lorem ipsum is simply free text dolor amett consec adipisc.</p>
                                     <div className="btn-box">
                                         <Link to={process.env.PUBLIC_URL + `/general-contracting`}><span className="icon-right-arrow"></span></Link>
@@ -81,9 +81,9 @@ export default class ServiceThree extends React.Component {
                                 <div className="services-three__single">
                                     <div className="services-three__single__bg" style={{backgroundImage: 'url('+publicUrl+'assets/images/services/services-v1-bg.jpg)'}}></div>
                                     <div className="services-three__single-icon">
-                                        <span className="icon-painting"></span>
+                                        <span className="fas fa-clipboard-check"></span>
                                     </div>
-                                    <h3><Link to={process.env.PUBLIC_URL + `/general-contracting`}>icon-painting</Link></h3>
+                                    <h3><Link to={process.env.PUBLIC_URL + `/general-contracting`}>Project Faciliation</Link></h3>
                                     <p>Lorem ipsum is simply free text dolor amett consec adipisc.</p>
                                     <div className="btn-box">
                                         <Link to={process.env.PUBLIC_URL + `/general-contracting`}><span className="icon-right-arrow"></span></Link>
